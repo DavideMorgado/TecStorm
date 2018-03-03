@@ -1,7 +1,7 @@
 #define trigPin 53
 #define echoPin 52
-#define led 3
-#define led2 2
+#define led 51
+#define led2 50
 
 void setup() {
   Serial.begin(57600);
